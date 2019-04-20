@@ -18,4 +18,4 @@ You can find the source code for Jekyll at GitHub:
 [jekyll-organization]: https://github.com/jekyll
 
 
-<a href="New Text Document.txt" download="download">Download prazan fajl</a>
+<a href="_posts/New Text Document.txt" download="download">Download prazan fajl</a>
