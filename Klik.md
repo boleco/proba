@@ -5,7 +5,7 @@ permalink: /klik/
 ---
 
 
-[klik aplikacija](https://boleco.github.io/proba/_assets/Prazan_fajl.txt)
+[klik aplikacija](https://boleco.github.io/proba/_assets/"Prazan_fajl.txt")
 
 
 ***
