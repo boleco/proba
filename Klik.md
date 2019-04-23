@@ -11,7 +11,7 @@ permalink: /klik/
 
 [klik aplikacija](https://github.com/boleco/proba/blob/gh-pages/_assets/"Prazan_fajl.txt")
 
-<a href="/_assets/"Prazan_fajl.txt" download="download">Download praznog fajla iz /_assets-a/</a>
+<a href="/_assets/"Prazan_fajl.txt" download="download">Download praznog fajla iz _assets-a</a>
 
 ***
 
