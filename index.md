@@ -6,4 +6,4 @@ layout: home
 ---
 
 
-<a href="New Text Document.txt" download="download">Download prazan fajl</a>
+<a href="Prazan fajl.txt" download="download">Download prazan fajl</a>
