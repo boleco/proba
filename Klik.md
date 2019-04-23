@@ -5,7 +5,7 @@ permalink: /klik/
 ---
 
 
-![klik aplikacija](https://boleco.github.io/proba)
+[klik aplikacija](https://boleco.github.io/proba)
 
 
 
