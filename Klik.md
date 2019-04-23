@@ -5,9 +5,13 @@ permalink: /klik/
 ---
 
 
-[klik aplikacija](https://boleco.github.io/proba/_assets/"Prazan_fajl.txt")
+[klik aplikacija](https://github.com/boleco/proba/blob/gh-pages/_assets/Prazan_fajl.txt)
 
-<a href="_assets/"Prazan_fajl.txt" download="download">Download prazan fajl</a>
+***
+
+[klik aplikacija](https://github.com/boleco/proba/blob/gh-pages/_assets/"Prazan_fajl.txt")
+
+<a href="/_assets/"Prazan_fajl.txt" download="download">Download praznog fajla iz /_assets-a/</a>
 
 ***
 
